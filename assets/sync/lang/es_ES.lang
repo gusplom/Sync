@@ -1,0 +1,8 @@
+sync.breakShellUnit=%1$s destruyó la cáscara de %2$s
+item.Sync_ShellConstructor.name=Constructor de cáscara
+item.Sync_ShellStorage.name=Almacenamiento de cáscara
+item.Sync_Treadmill.name=Cinta de correr
+item.Sync_SyncCore.name=Núcleo de sincronización
+death.attack.syncFail=%1$s sincronizo con una cáscara muerta
+death.attack.shellConstruct=%1$s murió en el intento de crear una nueva cáscara
+sync.isMorphed=No se puede usar! Usted está transformado.
